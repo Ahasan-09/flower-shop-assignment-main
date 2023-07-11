@@ -1,0 +1,264 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* header related make web page style */
+
+.head-container{
+   
+    display: flex;
+    /* gap: 50px; */
+    width: 100%;
+    height: 850px;
+    justify-content: center;
+    gap: 110px;
+    align-items: center;
+    padding: 50px 200px 0px 240px;
+    background: rgba(229, 84, 115, 0.10);
+    
+   }
+.head-bk-img{
+    width: 635px;
+    height: 850px;
+    padding-right: 50px;
+}
+.head-tilte{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+
+font-weight: 800;
+
+}
+
+.head-paragra{
+
+color: rgba(39, 39, 39, 0.60);
+/* font-family: 'Lato'; */
+font-size: 22px;
+
+margin-top: 30px;
+
+margin-bottom: 30px;
+  
+}
+.head-buttn{
+    height: 64px;
+    width: 177px;
+ border-radius: 8px;
+background: #E55473;
+color: #FFF;
+
+font-size: 20px;
+font-weight: 700;
+}
+
+    /* Our Featured Flowers makes style */
+
+                  
+.feature-head-title{
+    color: #272727;
+text-align: center;
+/* font-family: Lato; */
+font-size: 40px;
+padding: 175px 764px 0px 764px;
+
+}
+
+.feature-paragra{
+    color: rgba(39, 39, 39, 0.60);
+    /* font-family: 'Lato'; */
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.featured-container{
+    display: flex;
+    /* gap: 5px; */
+    align-items: center;
+    justify-content:center;
+    gap: 5px;
+    padding: 36px;
+}
+
+.box{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    text-align: center;
+   }
+   .box2{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    text-align: center;
+   }
+   .box3{
+    width: 464px;
+    height: 538px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    text-align: center;
+   }
+
+   
+
+.imgess{
+    width: 310px;
+    height: 428px;
+}
+
+.festure-underline{
+    color: rgba(39, 39, 39, 0.60);
+    /* font-family: 'Lato'; */
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+/* Hot Deal ! Sale Up To 25% Off */
+
+.deal-img{
+   
+}
+.hot-deal{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 186px;
+margin: 60px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);;
+
+
+
+}
+.hot-title{
+   color: #272727;
+font-family: Lato;
+font-size: 40px;
+text-align: center;
+
+}
+.deal-img{
+   width: 318px; 
+   height: 420px;
+   padding: 100px 42px 42px  0px;
+}
+ 
+.hot-buttn{
+   height: 64px;
+   width: 177px;
+border-radius: 8px;
+background: #E55473;
+color: #FFF;
+text-align: center;
+margin-left: 220px;
+}
+
+/* <!-- Instagram section making style --> */
+.isn-container{
+    padding: 35px;
+}
+.ins-imgess{
+    width: 342px;
+height: 396px;
+margin-right: 20px;
+margin-bottom: 70px;
+  }
+
+/* ......................... */
+/* <!-- Get The Latest Deals --> */
+.bkkk{
+    width: 1440px;
+     height: 449px;
+     margin-top: 50px;
+        display: flex;
+      
+        margin: auto;
+        background-image: url("./Rectangle\ 9.png");
+        background-repeat: no-repeat;
+        background-position: center;
+        
+        justify-content: center;
+        align-items: center;
+        
+       
+     }
+
+     .formm-size{
+        width: 700px;
+       height: 64px;
+       border-radius: 8px;
+       background: #FFF;
+       
+     }
+     .get-title{    
+        color: #272727;
+       padding: 15px;
+         font-size: 40px;
+         text-align: center;
+     }
+.get-para{
+    color: rgba(39, 39, 39, 0.60);
+    /* font-family: 'Lato'; */
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    
+}
+
+.form-btt{
+    display: flex;
+    gap: 20px;
+}
+
+ /* footer makes deals style  */
+
+ .fotter-contzainer{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    color: white;
+    display: flex;
+    /* padding-top: 20px; */
+    margin: auto;
+    align-items: center;  
+      justify-content: center;
+   margin-top: 25px;
+      
+      
+   
+}
+
+.flsh{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+padding: 10px;
+ text-align: center;
+}
+     
+.fotter-para{
+
+    font-size: 18px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.fotter-copy{
+    text-align: center;
+    color: rgb(80, 70, 70);
+}
+.footer-spann{
+color: #FFFFFF;
+}
