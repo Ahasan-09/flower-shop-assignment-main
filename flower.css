@@ -165,6 +165,7 @@ background: #E55473;
 color: #FFF;
 text-align: center;
 margin-left: 220px;
+margin-top: 10px;
 }
 
 /* <!-- Instagram section making style --> */
@@ -202,6 +203,7 @@ margin-bottom: 70px;
        height: 64px;
        border-radius: 8px;
        background: #FFF;
+       text-align: center;
        
      }
      .get-title{    
@@ -224,6 +226,17 @@ margin-bottom: 70px;
     display: flex;
     gap: 20px;
 }
+/* '''''''''''''''''''''''''''''''' */
+
+.my-fr-profie{
+    dis
+}
+.nice-pic{
+
+    height: 300px;
+    width: 300px;
+}
+
 
  /* footer makes deals style  */
 
