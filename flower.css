@@ -229,13 +229,35 @@ margin-bottom: 70px;
 /* '''''''''''''''''''''''''''''''' */
 
 .my-fr-profie{
-    dis
-}
-.nice-pic{
-
-    height: 300px;
-    width: 300px;
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+    margin: 45px;
+    padding: 50px;
+    background-color: rgb(84, 131, 131);
+    width: 100%;
+    
+    }
+    .nice-pic{
+    
+        height: 700px;
+        width: 700px;
+    }
+    .fr-title{
+    
+       font-size: 70px;
+    }
+    
+    .fr-info{
+    
+        font-size: 30px;
+        padding-left: 150px;
+     
+    }
+    .info-co{
+        color: red;
+    }
 
 
  /* footer makes deals style  */
