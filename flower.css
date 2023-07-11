@@ -71,8 +71,8 @@ padding: 175px 764px 0px 764px;
     color: rgba(39, 39, 39, 0.60);
     /* font-family: 'Lato'; */
     font-size: 22px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 100px;
+    /* margin-bottom: 30px; */
     text-align: center;
 }
 .featured-container{
@@ -107,11 +107,14 @@ padding: 175px 764px 0px 764px;
    }
 
    
-
 .imgess{
     width: 310px;
     height: 428px;
+    padding-bottom: 100px;
+    font-weight: bold;
+   
 }
+
 
 .festure-underline{
     color: rgba(39, 39, 39, 0.60);
